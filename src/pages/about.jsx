@@ -20,7 +20,7 @@ const About = center => (
           twitter : <a href="https://twitter.com/deep0x00">https://twitter.com/deep0x00.</a>
         </p>
         <p align="left">
-          Linkedin : <a href="https://www.linkedin.comdeepanshu-gajbhiye/">https://www.linkedin.com/in/deepanshu-gajbhiye/</a>
+          Linkedin : <a href="https://www.linkedin.com/in/deepanshu-gajbhiye">https://www.linkedin.com/deepanshu-gajbhiye</a>
         </p>
     </Container>
   </Layout>
