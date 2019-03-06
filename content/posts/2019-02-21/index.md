@@ -5,7 +5,7 @@ slug: "Linux on windows"
 date: "2019-02-21"
 title: "Using Linux on windows"
 tags: ['linux', 'windows', 'windows subsystem', 'cli']
-published: true
+published: false
 
 ---
 
