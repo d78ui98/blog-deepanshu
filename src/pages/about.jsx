@@ -11,7 +11,7 @@ const About = center => (
     <Container center={center}>
         <p>
           Hello there, I’m Deepanshu, a Security Enthusiast and open source contributer.
-          Currently now I am a 4th year student and actively looking for opportunities.
+          Currently now I am a 4th year student and actively looking for oppturnities
         </p>  
         <p align="left">
           Email : gajbhiye.deepanshu[@]gmail[dot]com
