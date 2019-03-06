@@ -4,7 +4,7 @@ cover: "../2019-03-05/nullcon-nullbhopal.jpg"
 slug: "nullcon-2019"
 date: "2019-03-05"
 title: "My experience at nullcon 2019"
-tags: ['Nullcon', 'security', 'infosec', 'security']
+tags: ['Nullcon', 'security', 'infosec', 'NullconDasham']
 published: true
 
 ---
@@ -32,13 +32,13 @@ published: true
 
 Nullcon is the largest security conference in India, and this year is the 10th edition of the conference. It is 
 
-Before sharing my experience let me share about myself. Currently I am a fresher. I did my GSoC from Debian. Contributed to several open source projects like LinEmun, owasp security shepherd, metasploit and many more. Also last year I was volunteer at nullcon. Recently been promoted to chapter lead at nullbhopal.
+Before sharing my experience let me share about myself. Currently, I am a fresher. I did my GSoC from Debian. Contributed to several open source projects like LinEmun, owasp security shepherd, Metasploit and many more. Also last year I was a volunteer at nullcon. Recently been promoted to chapter lead at NullBhopal.
 
 
 
 # Day 1
 
-We started planning in the early december 2018 itself. Stay and travel sorted. When the schedule came we also planned which session to attend. But I was more interested in meeting new people at nullcon. As my dear friend Abhinav said -
+We started planning in the early december 2018 itself. Stay and travel sorted. When the schedule came we also planned which session to attend. But I was more interested in meeting new people at nullcon. As my dear friend, Abhinav said -
 
 ```
 Give priority in following way 
@@ -54,11 +54,11 @@ So I just went to exhibition booths to say hi and look for internships or freshe
 
 ### f-labs
 
-I am fascinated by new Innovations in IOT, Thats why very impressed [f-lab](https://f-lab.tech/) . They are a russian company worked in Smart home automation.  They demoed how they can control all the smart home devices with without using bluetooth or wifi. They developed their own app and an entire IoT blocks. According to what they explained -
+I am fascinated by new Innovations in IOT, That's why very impressed [f-lab](https://f-lab.tech/) . They are a Russian company worked in Smart home automation.  They demoed how they can control all the smart home devices without using Bluetooth or wifi. They developed their own app and entire IoT setup. According to what they explained -
 
 - The users are provided with an app to control the smart devices.
-- Then app will then send signal to their servers in russia.
-- Then turn on/off to a main hub box.  
+- The app will then send a signal to its servers in Russia.
+- Then turn on/off to the main hub box.  
 - Hub box will send on/off signal to the individual devices 
 
 ![hello](../2019-03-05/images/f-lab.jpg)()
@@ -85,17 +85,17 @@ I really like the energy which she talks with. Also had a talk with her in perso
 
 
 
-After the talk I asked my seniors to introduce  me to Technically good people.  Listened to their stories of how they started, what mistakes to avoid and much more.
+After the talk, I asked my seniors to introduce me to Technically good people.  Listened to their stories of how they started, what mistakes to avoid and much more.
 
 ### Automate Appsec and OSINT
 
 ![](../2019-03-05/images/banglore.jpg)
 
-After that we had lunch and we attended workshop on "**Automate Appsec and OSINT Workflows withContainers, Kubernetes **" by [Akash](https://twitter.com/makash) and [abhishek](https://twitter.com/abh1sek) 
+After that we had lunch and we attended workshop on "**Automate Appsec and OSINT Workflows with Containers, Kubernetes **" by [Akash](https://twitter.com/makash) and [abhishek](https://twitter.com/abh1sek) 
 
 tweeted about it - https://twitter.com/deep0x00/status/1101410882398158849
 
-They also posted the workshop content on github - https://github.com/appsecco/using-docker-kubernetes-for-automating-appsec-and-osint-workflows
+They also posted the workshop content on Github - https://github.com/appsecco/using-docker-kubernetes-for-automating-appsec-and-osint-workflows
 
 (((((((Need to go in the details of this workshop)))))))
 
@@ -107,15 +107,15 @@ This we went to somewhere which we wanted from the beginning.
 
 ![](../2019-03-05/images/hard.png) 
 
-There we met out IOT security mentor [Abhijith](https://twitter.com/hei5enbrg) sir. He works as hardware security researcher at payatu. Saw everyone working on hardware CTF challanges. At that time they were working on Mirco soldering. I have it in a video will share the on youtube and share a link here if everyone permits.
+There we met out IOT security mentor [Abhijith](https://twitter.com/hei5enbrg) sir. He works as a hardware security researcher at Payatu. Saw everyone working on hardware CTF challenges. At that time they were working on Mirco soldering. I have it in a video will share the on youtube and share a link here if everyone permits.
 
 The only thing I regret is not attending the hardware hacking village from beginning :/
 
-After that I went to bosh Exhibition booth and played their challange. Got 9 out 15 questions right and got a very cool bosh t-shirt. The questions were mainly of cryptography, network security.
+After that, I went to Bosh Exhibition booth and played their challenges. Got 9 out of 15 questions right and got a very cool bosh t-shirt. The questions were mainly of cryptography, network security.
 
 ### Rise of the Machinez
 
-Then we attended that final worshop that we planned. "Rise of the Machinez" by [Anto Joseph](https://twitter.com/antojosep007) . He is an amazing speaker. The session was fun and interactive throughout. He gave Vmware VM with Jupyter notebook preinstalled and had couple of his script. 
+Then we attended that final workshop that we planned. "Rise of the Machinez" by [Anto Joseph](https://twitter.com/antojosep007) . He is an amazing speaker. The session was fun and interactive throughout. He gave Vmware VM with Jupyter notebook preinstalled and had a couple of his script. 
 
 ![](../2019-03-05/images/anton.jpg)
 
@@ -138,13 +138,13 @@ This was the end of Day 1 talks and workshops. Later we attended the Invite only
 
 ### Synopsis CTF
 
-For day 2, I was little bit exhausted. But still I thought lets work out way through the CTFs. Sheeraz and I teamed up and started working our way on Synopsis CTF.
+For day 2, I was little bit exhausted. But still, I thought lets work out way through the CTFs. Sheeraz and I teamed up and started working our way on Synopsis CTF.
 
 ![](../2019-03-05/images/ctf.jpg) 
 
  
 
-There were 4 web challanges and 4 mobile challenges. I took few sessions at nullbhopal on reversing apps and also build few automated script around it. So we 2 worked on app challanges
+There were 4 web challenges and 4 mobile challenges. I took a few sessions at Nullbhopal on reversing apps and also build a few automated script around it. So we 2 worked on app challenges
 
 #### i. app 1 (150 pts)
 
@@ -186,8 +186,8 @@ The app is connecting to 'google.com' and looking for the string 'You Know Nothi
 anywhere on the homepage. Alter the page on the fly in order to trick the app into unlocking
 ```
 
-Me and sheeraz had a rough idea about what to do. Somehow need to intercept the traffic between the phone and internet with some proxy or tool like burpsuite and change the request created in between. We started looking for it online and found we can do it with burpsuite. 
-But for unknown reason it was not worked. Even asked Jason, Abartan and couple of other folks playing the ctf But couldn't solve and Ended up wasting lots of time on this app.
+I and sheeraz had a rough idea about what to do. Somehow need to intercept the traffic between the phone and internet with some proxy or tool like burpsuite and change the request created in between. We started looking for it online and found we can do it with burpsuite. 
+But for unknown reasons it was not worked. Even asked Jason, Abartan and couple of other folks playing the ctf But couldn't solve and Ended up wasting lots of time on this app.
 
 #### iii. app 3 (200 pts)
 
@@ -221,7 +221,7 @@ I am no expert But I think One should attend conferences with Seniors Juniors an
 
 - Spend 30% of your time with your seniors asking for help and networking. 
 - Spend 30% of your time with batchmates working together in CTFs and challenge
-- Spend 30% of time with juniors helping them around. That way you contribute back to community
+- Spend 30% of time with juniors helping them around. That way you contribute back to the community
 - And 10% alone or trying to relax, planning, etc.
 
 # Mistakes to avoid for next Nullcon
@@ -236,7 +236,7 @@ I am writing this sections so that it could be of help to everyone and me next y
 
 # Thank you
 
-It was a wonderful experience for me this year. I made few mistakes but Learned a lot from them. Will try to avoid those mistakes next year.
+It was a wonderful experience for me this year. I made a few mistakes but Learned a lot from them. Will try to avoid those mistakes next year.
 
 If you have any questions you can reach me out on twitter or Linkedin.
 
