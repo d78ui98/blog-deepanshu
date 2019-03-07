@@ -52,7 +52,7 @@ Conference is effectively for networking and meeting people.
 
 ```
 
-So I just went to exhibition booths to say hi and look for internships or fresher jobs. This time I saw new Exhibitors like Bugcrowd, Cloudsec, Airtel, Dark matter and many more.
+So I just went to exhibition booths to say hi and look for internships or fresher jobs. This time I saw new Exhibitors like Bugcrowd, Cloudsek, Airtel, Dark matter and many more.
 
 ### f-labs
 
