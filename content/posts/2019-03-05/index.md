@@ -238,6 +238,8 @@ I am writing this sections so that it could be of help to everyone and me next y
 
 It was a wonderful experience for me this year. I made a few mistakes but Learned a lot from them. Will try to avoid those mistakes next year. Hope this help. :)
 
+Big thanks to [Anant sir](https://twitter.com/anantshri) for being an amazing mentor my friends [Sahil](https://twitter.com/codesahil), [Saurabh](https://twitter.com/4w4r44) and entire NullBhopal team.
+
 If you have any questions you can reach me out on twitter or Linkedin.
 
 - twitter - https://twitter.com/deep0x00
