@@ -22,6 +22,9 @@ const About = center => (
         <p align="left">
           Linkedin : <a href="https://www.linkedin.com/in/deepanshu-gajbhiye">https://www.linkedin.com/deepanshu-gajbhiye</a>
         </p>
+        <p align="left">
+          Resume : <a href="https://github.com/d78ui98/blog-deepanshu/blob/master/static/Deepanshu-Gajbhiye.pdf">Deepanshu Gajbhiye</a>
+        </p>
     </Container>
   </Layout>
 );
