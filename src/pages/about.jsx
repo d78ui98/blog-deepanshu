@@ -14,7 +14,7 @@ const About = center => (
           Currently now I am a 4th year student and actively looking for oppturnities
         </p>  
         <p align="left">
-          Email : gajbhiye.deepanshu[@]gmail[dot]com
+          Email : <a href="mailto:gajbhiye.deepanshu@gmail.com">gajbhiye.deepanshu@gmail.com</a>
         </p>
         <p align="left">
           twitter : <a href="https://twitter.com/deep0x00">https://twitter.com/deep0x00.</a>

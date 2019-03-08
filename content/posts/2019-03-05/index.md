@@ -245,5 +245,11 @@ If you have any questions you can reach me out on twitter or Linkedin.
 - twitter - https://twitter.com/deep0x00
 - Linkedin - https://www.linkedin.com/in/deepanshu-gajbhiye/
 
-Fresher looking for opportunities in security area - [gajbhiye.deepanshu@gmail.com](mailto:gajbhiye.deepanshu@gmail.com)
+
+
+
+
+
+
+Fresher looking for opportunities in security field. Resume in the about page - https://deep0x00.netlify.com/about
 
