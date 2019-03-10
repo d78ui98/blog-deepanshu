@@ -7,7 +7,7 @@ import { Layout, Container } from 'layouts';
 const About = center => (
   <Layout>
     <Helmet title={'About Page'} />
-    <Header title="About Page">GSoC 2018 at Debian | ChapterLead NullBhopal</Header>
+    <Header title="About">GSoC 2018 at Debian | ChapterLead NullBhopal</Header>
     <Container center={center}>
         <p>
           Hello there, I’m Deepanshu, a Security Enthusiast and open source contributer.
